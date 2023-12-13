@@ -2,6 +2,8 @@
 
 ## Deployed application link
 
+https://digitallyalex.github.io/days-till-santa-comes/
+
 ## Description
 
 A simple desktop application counting down the days until Christmas 🎄🎅🏼🎁
