@@ -78,8 +78,16 @@ body {
   background-color: rgb(8, 81, 6);
 }
 
+.song-play-button:hover {
+  background-color: rgb(24, 120, 21);
+}
+
 .song-pause-button {
   background-color: rgb(103, 5, 5);
+}
+
+.song-pause-button:hover {
+  background-color: rgb(140, 27, 27);
 }
 
 .footer {
